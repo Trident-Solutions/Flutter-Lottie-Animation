@@ -1,0 +1,6 @@
+framework module fluttie {
+  umbrella header "fluttie-umbrella.h"
+
+  export *
+  module * { export * }
+}
