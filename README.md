@@ -3,6 +3,8 @@
 
 This repo gives you amazing Flutter Lottie Animation!
 
+[![Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://flutter.dev/)
+
 ## Demo
 
 ![Lottie_Demo](https://user-images.githubusercontent.com/10756609/67161271-83891380-f376-11e9-8e3a-4898a427de6a.gif)
