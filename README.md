@@ -1,4 +1,5 @@
 [![Screenshot](https://tridentnets.com/banner.png)](https://tridentnets.com/)
+
 # Flutter Lottie Animation
 
 This repo gives you amazing Flutter Lottie Animation!
